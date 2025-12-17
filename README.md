@@ -1,9 +1,19 @@
-### Hello there
+## Hey 👋 I’m **Javi**
 
-You probably ended up on this GitHub profile by mistake, but worry not, and enjoy these resources:
+> I’m a backend engineer who loves micro‑services, simplifying stuff, and a good pun.
 
-- [⚡ Arr!](https://en.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day)
-- [Recursion example 1](https://en.wikipedia.org/wiki/Phobophobia)
-- ["True cloud storage" by Erik Ekman 🤔](https://github.com/yarrick/pingfs)
-- [Recursion example 2](https://www.goodreads.com/quotes/555386-why-are-you-drinking-demanded-the-little-prince-so-that)
-- [🌱 The Art of Code](https://youtu.be/gdSlcxxYAA8)
+## 💡 Professional Tech Stack
+
+- **Micro‑services playground** – Java + Spring Boot
+- **Message‑munching** – RabbitMQ, plus Kafka for the heavy‑hitters
+- **Data‑dive** – PostgreSQL for the tables, Elasticsearch for the search‑fun
+- **Cloud‑craze** – K8s clusters on AWS
+- **Pipeline wizardry** – Concourse builds that deploy automatically
+
+<img src="https://skillicons.dev/icons?i=java,spring,rabbitmq,kafka,postgres,elasticsearch,aws,kubernetes,redis,postman,github"
+     alt="Java, Spring boot, RabbitMQ, Kafka, Postgres, Elasticsearch, AWS, Kubernetes, Redis, Postman, Github" />
+
+## 🎉 My “side‑project” tools
+
+<img src="https://skillicons.dev/icons?i=linux,debian,kali,docker,raspberrypi,vim,obsidian,rust" 
+     alt="Linux, Debian, Kali, Docker, Raspberry Pi, Vim, Obsidian, Rust" />
