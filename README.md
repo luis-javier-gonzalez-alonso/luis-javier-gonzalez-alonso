@@ -5,10 +5,10 @@
 ## 💡 Professional Tech Stack
 
 - **Micro‑services playground** – Java + Spring Boot
-- **Message‑munching** – RabbitMQ, plus Kafka for the heavy‑hitters
-- **Data‑dive** – PostgreSQL for the tables, Elasticsearch for the search‑fun
-- **Cloud‑craze** – K8s clusters on AWS
-- **Pipeline wizardry** – Concourse builds that deploy automatically
+- **Message‑munching** – RabbitMQ, Kafka
+- **Data‑dive** – PostgreSQL, Elasticsearch, Redis
+- **Cloud‑craze** – Cloud Foundry and K8s clusters on AWS
+- **Pipeline wizardry** – Concourse and Github Actions builds
 
 <img src="https://skillicons.dev/icons?i=java,spring,rabbitmq,kafka,postgres,elasticsearch,aws,kubernetes,redis,postman,github"
      alt="Java, Spring boot, RabbitMQ, Kafka, Postgres, Elasticsearch, AWS, Kubernetes, Redis, Postman, Github" />
