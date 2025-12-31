@@ -15,5 +15,5 @@
 
 ## 🎉 My “side‑project” tools
 
-<img src="https://skillicons.dev/icons?i=linux,debian,kali,docker,raspberrypi,vim,obsidian,rust" 
-     alt="Linux, Debian, Kali, Docker, Raspberry Pi, Vim, Obsidian, Rust" />
+<img src="https://skillicons.dev/icons?i=linux,debian,kali,docker,raspberrypi,vim,obsidian,rust,android" 
+     alt="Linux, Debian, Kali, Docker, Raspberry Pi, Vim, Obsidian, Rust, Android" />
